@@ -1,6 +1,8 @@
 # MyHelloJsf
 Simple Jakarta EE Web Application with a JSF like "Hello, World!".
 
+![NetBeans Project](imgs/myhellojsf.png)
+
 ## Reference
 A Web Module That Uses Jakarta Server Faces Technology: The hello1 Example
 
