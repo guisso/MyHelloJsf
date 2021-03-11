@@ -5,7 +5,7 @@ Simple Jakarta EE Web Application with a JSF like "Hello, World!".
 
 ## Suggested analysis order
 
-1. [web.xml](/src/main/webapp/index.xhtml)
+1. [web.xml](/src/main/webapp/WEB-INF/web.xml)
 2. [Hello.java](/src/main/java/io/github/guisso/jakartaee8/myhellojsf/Hello.java)
 3. [index.html](/src/main/webapp/index.xhtml)
 4. [boasvindas.xhtml](/src/main/webapp/boasvindas.xhtml)
